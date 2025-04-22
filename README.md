@@ -72,6 +72,6 @@ By highlighting low-performing aircraft or traveler categories, the company can 
 **Global Insights:**
 Regional analysis helps identify cultural or geographic trends in customer expectations and perceptions.
 
-## ✅ Conclusion
-The Airline Reviews Dashboard is a powerful tool for turning customer feedback into strategic insights. By transforming raw review data into clear, actionable visualizations, it supports British Airways in making informed decisions to elevate service quality and customer satisfaction. 🚀
+## Conclusion
+✅ The Airline Reviews Dashboard is a powerful tool for turning customer feedback into strategic insights. By transforming raw review data into clear, actionable visualizations, it supports British Airways in making informed decisions to elevate service quality and customer satisfaction.
 
